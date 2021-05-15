@@ -1,0 +1,21 @@
+{
+	"name": "sourcebin-lite",
+	"version": "0.0.0",
+	"description": "allows you to work with the sourcebin api in the lightest but efficient way possible",
+	"main": "./src/index.js",
+	"bin": "./src/index.js",
+	"scripts": {
+		"start": "node ./src/index.js"
+	},
+	"keywords": [
+		"sourcebin",
+		"srcbin",
+		"api",
+		"lite"
+	],
+	"author": "amashi",
+	"license": "unlicense",
+	"dependencies": {
+		"request": "^2.88.2"
+	}
+}
