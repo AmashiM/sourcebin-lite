@@ -17,5 +17,9 @@
 	"license": "unlicense",
 	"dependencies": {
 		"request": "^2.88.2"
-	}
+	},
+	"repository": {
+		"url": "https://github.com/AmashiSenpai/sourcebin-lite"
+	},
+	"readme": "./README.md"
 }
